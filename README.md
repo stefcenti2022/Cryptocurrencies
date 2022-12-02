@@ -6,7 +6,7 @@ Given a dataset from CryptoCompare, this project creates a report that includes 
 
 The data was processed to fit the machine learning models. Since there is no known output for the portfolio, the project uses unsupervised learning to group the cryptocurrencies with a clustering algorithm.
 
-The data was then usesd to create the visualizations shown in this report.
+The data was then used to create the visualizations shown in this report.
 
 ## Results
 
@@ -28,7 +28,7 @@ The following images show the results from cleaning up the data and running our 
 
   The image below shows a 3D scatter plot of the clustered data in the dataframe shown previously:
 
-  Note that there are 4 clusters with 2 clusters containing very few data points and 2 otheres that contain many datapoints:
+  Note that there are 4 clusters with 2 clusters containing very few data points and 2 others that contain many datapoints:
 
     <img src="./images/scatter_plot_3d.png" alt="3D Scatter Plot" width="500"/>
 
@@ -48,7 +48,7 @@ The following images show the results from cleaning up the data and running our 
 
     <img src="./images/scatter_plot_2d.png" alt="2D Scatter Plot" width="500"/>
 
-- Oulier Bit Torrent
+- Outlier Bit Torrent
 
   In these images we can see how the outlier in both models is Bit Torrent:
 
