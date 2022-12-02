@@ -62,4 +62,4 @@ By using the graphs and tables provided in this analysis, any user can determine
 
 Open our notebook and use the scrollable table to find out more about your favorite cryptocurrency!
 
-<img src="./images/scrollable_table.png" alt="Scrollable Table" width="300"/>
+<img src="./images/scrollable_table.png" alt="Scrollable Table" width="800"/>
